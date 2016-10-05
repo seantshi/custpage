@@ -1,0 +1,18 @@
+.bolded.text{
+  font-family: Arial Black, sans-serif;
+  font-size: 18px;
+}
+body{
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+.title.text{
+  font-family: 'BT Futura W01', Arial, sans-serif;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 30px;
+}
+.para.text{
+  text-align: center;
+  font-family: 'BT Futura W01', Arial, sans-serif;
+}
